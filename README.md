@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* What is helpful
+* how can it be helpful
+* to helpful is to devine
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* feature 1
+* feature 2
+* feature 3
 
 ## Getting started
 
